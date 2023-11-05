@@ -61,7 +61,7 @@ const Login = () => {
               <FaGoogle></FaGoogle>
               <FaLinkedin></FaLinkedin>
               </div>
-              <p className="text-center">New here?<Link to={'/signup'}><span className="text-[#FF3811]">sign up</span></Link></p>
+              <p className="text-center">New here?<Link to={'/signUp'}><span className="text-[#FF3811]">sign up</span></Link></p>
             </form>
           </div>
         </div>
